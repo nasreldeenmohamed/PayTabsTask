@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PayTabs Task</string>
+    <string name="pay_now">Pay now!</string>
+    <string name="transaction_info">Transaction Info</string>
+    <string name="transaction_title">Transaction title</string>
+    <string name="amount">Amount</string>
+    <string name="address">Address</string>
+    <string name="billing_address">Billing Address</string>
+</resources>
